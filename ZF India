@@ -1,0 +1,38 @@
+
+a) what is SPI nd 12C Protocals and its working?
+
+b) difference Between 12c vs Spi Protocal ?
+
+c) differnce between malloc and calloc? 
+d) give examples where malloc and calloc to be used?
+
+e) generic pointer? 
+f) null pointer?
+g) what is dangling pointer?
+h) what is structure?
+
+i) what is uinion?
+
+j) difference between structure and union?
+
+k) what is volatile and constant keywords ?
+
+I) explain in detail compilation stages?
+
+m) why header files inclusion is must?
+
+n) global static and local static difference? 
+
+o) is it possible to use global variable in another .c file?
+p)  program-Bit swapping without using temporary variable?
+q) program Bit swapping using XOR operator?
+
+r) what is function and recursion?
+s)  what is embedded system?
+t) difference between function and recursion? 
+u) what is CAN protocol ?
+v) difference between microcontroller and microprocessor
+w) what is storage class and their types and explanation?
+x) difference between static memory and dynamic memory?
+y) what is ADC and how to work ADC?
+z) Explain your academic project?
